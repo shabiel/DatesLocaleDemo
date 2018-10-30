@@ -4,6 +4,7 @@ object Form1: TForm1
   Caption = 'Sam'#39's Date Time Tester'
   ClientHeight = 480
   ClientWidth = 640
+  Position = Designed
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
